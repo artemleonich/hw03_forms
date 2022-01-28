@@ -3,7 +3,7 @@ from django.shortcuts import get_object_or_404, redirect
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpRequest
-from typing import Dict, Any, Tuple
+from typing import Dict
 
 
 from .models import Group, Post, User
