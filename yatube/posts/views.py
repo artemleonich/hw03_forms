@@ -78,4 +78,3 @@ def post_edit(request: HttpRequest, post_id: int) -> HttpResponse:
         return render(request, template, context)
     form.save()
     return redirect("posts:post_detail", post_id=post.id)
-    
