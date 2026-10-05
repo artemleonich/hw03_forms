@@ -1,12 +1,10 @@
-<p align="center">
-  <img src=".github/assets/banner.svg" width="100%" alt="Yatube · Формы" />
-</p>
-
 # Yatube · Формы
+
+<img src=".github/assets/stack.svg" height="28" alt="Python · Django · Learning" />
 
 Создание и редактирование публикаций через веб-интерфейс.
 
-**Учебный проект** · Python · Django 2.2.6 · SQLite · pytest-django  
+**Учебный проект**  
 [Русский](#about) · [English](#english) · [Профиль](https://github.com/artemleonich)
 
 <a id="about"></a>
